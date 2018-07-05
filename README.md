@@ -86,7 +86,7 @@ Your can either use a Google Home or an AIY Voice Kit to interact with the terra
 Follow the instructions [here](https://developers.google.com/actions/smarthome/testing-deploying) to test and deploy your app on Google Home. You can then use a Google Home associated with your associated account by talking to it to trigger the terrarium and asking it about the weather
 
 ## Build your own terrarium
-You can also build your own terrarium. Detailed instructions of fabrication and electronics are here.
+You can also build your own terrarium. Detailed instructions of fabrication and electronics [are here](https://www.instructables.com/id/Project-Oasis-Voice-Terrarium/).
 
 ## Contributors
 Made by Harpreet Sareen and friends at the Google Creative Lab.
